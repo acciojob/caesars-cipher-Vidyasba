@@ -32,7 +32,7 @@ const lookup = {
 };
 let A="A".charCodeAt(0);
 let Z="Z".charCodeAt(0);
-function rot13(encodedStr) {
+function rot13(str) {
   //let decodedArr = []; // Your Result goes here
   // Only change code below this line
 	let ans="";
